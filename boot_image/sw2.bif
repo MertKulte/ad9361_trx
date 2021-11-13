@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]C:\Users\admin\Desktop\ad9361_project\prj\ad9361_project\ad9361_project.sdk\fsbl\Debug\fsbl.elf
+	C:\Users\admin\Desktop\ad9361_project\prj\ad9361_project\ad9361_project.sdk\system_top_hw_platform_0\system_top.bit
+	C:\Users\admin\Desktop\ad9361_project\prj\ad9361_project\ad9361_project.sdk\sw2\Debug\sw2.elf
+}

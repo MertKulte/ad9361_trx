@@ -1,0 +1,15 @@
+prj/ad9361_project/
+src/system/ip/
+src/system/ipshared/
+src/system/sim/
+src/system/hw_handoff/
+src/system/synth/
+src/system/common/
+src/system/hdl/
+src/system/ui/
+prj/vivado.jou
+prj/vivado.log
+prj/vivado_21512.backup.jou
+prj/vivado_21512.backup.log
+src/system/system.bxml
+src/system/system_ooc.xdc

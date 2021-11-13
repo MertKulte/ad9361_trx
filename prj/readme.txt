@@ -1,0 +1,1 @@
+Change Vivado installation directory in build.bat file using a text editor or directly source build.tcl inside Vivado.
